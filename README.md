@@ -64,39 +64,17 @@ Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với
 
 ---
 
-### 💼 Work Experience
+### 💼 Featured Projects & Experience
 
 #### 🏢 **Java Developer Intern** — INNOTECH Technology & Digital Transformation Co., Ltd.
 > *11/2025 – 05/2026 · Hà Nội, Việt Nam*
 
-- 🔧 Phát triển và bảo trì các tính năng backend cho ứng dụng web doanh nghiệp bằng **Java** và **Spring Boot**.
-- 📐 Đọc hiểu và triển khai tài liệu thiết kế hệ thống (sequence diagram, API spec, architecture doc), đảm bảo tính nhất quán giữa thiết kế và thực thi.
-- ✅ Viết code theo tiêu chuẩn **SOLID**, **Clean Code**; tham gia quy trình review code và quản lý pull request theo **GitFlow**.
-- 🐛 Sửa lỗi, kiểm thử hồi quy và triển khai dịch vụ backend theo từng giai đoạn trong môi trường **Agile**.
-- 🗄️ Thiết kế và tối ưu tầng truy cập dữ liệu với **JPA/Hibernate**, cải thiện hiệu năng truy vấn trên cơ sở dữ liệu quan hệ.
-- 🔗 Tích hợp API bên thứ ba và các dịch vụ nội bộ, nâng cao độ tin cậy hệ thống sản xuất.
-
----
-
-### 🚀 Featured Projects
-
-#### 📚 **Online Learning & Examination Platform** *(05/2025 – 10/2025)*
-> **Vai trò:** Backend Developer & System Architect
-
-**Tech Stack:**
-`Java 21` `Spring Boot 3.3` `Spring Security` `Spring Cloud (Eureka, API Gateway, OpenFeign)`
-`JWT` `OAuth2` `PostgreSQL` `MongoDB` `Redis` `Apache Kafka` `Docker` `GitHub Actions` `Swagger`
-
-**Điểm nổi bật:**
-- 🏗️ Xây dựng nền tảng microservices với **12+ services** theo kiến trúc phân tầng (Controller – Service – Repository).
-- 🔐 Xây dựng **Identity Service** với JWT (access/refresh token), đăng nhập OAuth2 (Google) và **RBAC** 3 cấp: Admin, Manager, User.
-- 📝 Thiết kế **RESTful API** cho quản lý User, Role, Permission với bảo mật cấp phương thức (`@PreAuthorize`).
-- 📊 Phát triển **Exam Service**: CRUD ngân hàng câu hỏi, sinh câu hỏi ngẫu nhiên, loại trùng lặp, nhập/xuất Excel (Apache POI).
-- ⚡ Tích hợp **Apache Kafka** cho messaging bất đồng bộ giữa các dịch vụ Notification & Profile.
-- 🐳 Container hóa toàn bộ hệ thống với **Docker Compose** điều phối **15+ containers**.
-- 📖 Tài liệu hóa API với **SpringDoc OpenAPI (Swagger UI)** và JWT Bearer authentication.
-
----
+-  Phát triển và bảo trì các tính năng backend cho ứng dụng web doanh nghiệp bằng **Java** và **Spring Boot**.
+-  Đọc hiểu và triển khai tài liệu thiết kế hệ thống (sequence diagram, API spec, architecture doc), đảm bảo tính nhất quán giữa thiết kế và thực thi.
+-  Viết code theo tiêu chuẩn **SOLID**, **Clean Code**; tham gia quy trình review code và quản lý pull request theo **GitFlow**.
+-  Sửa lỗi, kiểm thử hồi quy và triển khai dịch vụ backend theo từng giai đoạn trong môi trường **Agile**.
+-  Thiết kế và tối ưu tầng truy cập dữ liệu với **JPA/Hibernate**, cải thiện hiệu năng truy vấn trên cơ sở dữ liệu quan hệ.
+-  Tích hợp API bên thứ ba và các dịch vụ nội bộ, nâng cao độ tin cậy hệ thống sản xuất.
 
 #### 🛡️ **DevSecOps Research Project — SCI-2026 International Conference** *(11/2025 – 05/2026)*
 > **Vai trò:** Core Researcher — Infrastructure & Security Architect  
@@ -107,17 +85,17 @@ Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với
 `Java 17` `Spring Boot 3.x` `PostgreSQL` `Redis` `Docker` `Kubernetes (K8s)` `Terraform` `GitHub Actions`
 
 **Đóng góp kỹ thuật:**
-- 🔒 Áp dụng **Shift-left Security**: tích hợp SAST (SonarQube) và quét lỗ hổng (Snyk/Trivy) vào pipeline CI/CD.
-- 📦 Điều phối K8s clusters và cấu hình dịch vụ bằng **Terraform** và **Helm Charts** (100% environment consistency).
-- 📈 Xây dựng hệ thống giám sát toàn diện với **Prometheus & Grafana**, cảnh báo tự động theo ngưỡng tài nguyên.
-- 📡 Cấu hình **Horizontal Pod Autoscaler (HPA)** duy trì ổn định hệ thống khi traffic tăng đột biến.
+-  Áp dụng **Shift-left Security**: tích hợp SAST (SonarQube) và quét lỗ hổng (Snyk/Trivy) vào pipeline CI/CD.
+-  Điều phối K8s clusters và cấu hình dịch vụ bằng **Terraform** và **Helm Charts** (100% environment consistency).
+-  Xây dựng hệ thống giám sát toàn diện với **Prometheus & Grafana**, cảnh báo tự động theo ngưỡng tài nguyên.
+-  Cấu hình **Horizontal Pod Autoscaler (HPA)** duy trì ổn định hệ thống khi traffic tăng đột biến.
 
 **Kết quả nổi bật:**
 | Chỉ số | Kết quả |
 |---|---|
-| 🟢 System Uptime | **99.8%** dưới tải 5,000 concurrent users |
-| 🔴 Lỗ hổng bảo mật nghiêm trọng | Phát hiện & vá **19 lỗ hổng** trước khi deploy |
-| 🏆 Công nhận | Bài báo được chấp nhận tại **SCI-2026** |
+|  System Uptime | **99.8%** dưới tải 5,000 concurrent users |
+|  Lỗ hổng bảo mật nghiêm trọng | Phát hiện & vá **19 lỗ hổng** trước khi deploy |
+|  Công nhận | Bài báo được chấp nhận tại **SCI-2026** |
 
 ---
 
@@ -125,30 +103,30 @@ Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với
 
 #### 🏫 **Đại học Điện Lực (Electric Power University — EPU)**
 > *09/2022 – 01/2027 · Công nghệ Phần mềm (Software Technology)*  
-> **GPA: 3.53 / 4.0** ⭐
+> **GPA: 3.53 / 4.0** 
 
 **Thành tích nổi bật:**
-- 🥇 Danh hiệu **Sinh viên Xuất sắc** các năm học 2024–2025 và 2025–2026.
-- 📄 Đồng tác giả bài báo khoa học được chấp nhận tại **hội nghị quốc tế SCI-2026**.
-- 📚 Hoàn thành **134 tín chỉ**, xây dựng nền tảng vững chắc về kỹ thuật phần mềm, kiến trúc hệ thống và công nghệ mới nổi.
+-  Danh hiệu **Sinh viên Xuất sắc** các năm học 2024–2025 và 2025–2026.
+-  Đồng tác giả bài báo khoa học được chấp nhận tại **hội nghị quốc tế SCI-2026**.
+-  Hoàn thành **134 tín chỉ**, xây dựng nền tảng vững chắc về kỹ thuật phần mềm, kiến trúc hệ thống và công nghệ mới nổi.
 
 **Môn học tiêu biểu (điểm A/A+):**
 
 | Nhóm | Môn học & Điểm số |
 |---|---|
-| 🧮 **Thuật toán & Toán học** | Cấu trúc DL & Giải thuật Nâng cao (A+), Toán cao cấp 1&2 (9.6), Toán rời rạc (8.6) |
-| 🤖 **AI & Xử lý dữ liệu** | Machine Learning Nâng cao (10.0), Trí tuệ nhân tạo (9.8), Phân tích & Trực quan hóa DL (9.9) |
-| 🔐 **Hệ thống & Bảo mật** | Lập trình Hệ thống (9.7), An toàn Thông tin (9.6), Kiểm thử & Đảm bảo Chất lượng (9.9) |
-| 💻 **Phát triển phần mềm** | Lập trình Java, Phát triển Web phần mềm An toàn, Lập trình .NET (10.0) |
+|  **Thuật toán & Toán học** | Cấu trúc DL & Giải thuật Nâng cao (A+), Toán cao cấp 1&2 (9.6), Toán rời rạc (8.6) |
+|  **AI & Xử lý dữ liệu** | Machine Learning Nâng cao (10.0), Trí tuệ nhân tạo (9.8), Phân tích & Trực quan hóa DL (9.9) |
+|  **Hệ thống & Bảo mật** | Lập trình Hệ thống (9.7), An toàn Thông tin (9.6), Kiểm thử & Đảm bảo Chất lượng (9.9) |
+|  **Phát triển phần mềm** | Lập trình Java, Phát triển Web phần mềm An toàn, Lập trình .NET (10.0) |
 
 ---
 
 ### 🧠 Soft Skills
 
-- 🔍 **Systematic Troubleshooting:** Phân tích và cô lập lỗi dựa trên application log, stack trace và performance data; tập trung xử lý tận gốc và ngăn tái diễn qua unit test / integration test.
-- 📖 **Technical Research:** Đọc hiểu tài liệu kỹ thuật tiếng Anh (JavaDoc, Spring Documentation, RFC); chuyển hóa đặc tả kỹ thuật thành giải pháp triển khai thực tế.
-- ✨ **Clean Code & Code Review:** Tư duy chú trọng chất lượng code theo SOLID và Clean Architecture; giao tiếp kỹ thuật hiệu quả trong quy trình review code và pull request.
-- 🚀 **Continuous Learning:** Chủ động nghiên cứu công nghệ mới trong hệ sinh thái Java và mở rộng sang các ngôn ngữ backend khác (Go, Kotlin).
+-  **Systematic Troubleshooting:** Phân tích và cô lập lỗi dựa trên application log, stack trace và performance data; tập trung xử lý tận gốc và ngăn tái diễn qua unit test / integration test.
+-  **Technical Research:** Đọc hiểu tài liệu kỹ thuật tiếng Anh (JavaDoc, Spring Documentation, RFC); chuyển hóa đặc tả kỹ thuật thành giải pháp triển khai thực tế.
+-  **Clean Code & Code Review:** Tư duy chú trọng chất lượng code theo SOLID và Clean Architecture; giao tiếp kỹ thuật hiệu quả trong quy trình review code và pull request.
+-  **Continuous Learning:** Chủ động nghiên cứu công nghệ mới trong hệ sinh thái Java và mở rộng sang các ngôn ngữ backend khác (Go, Kotlin).
 
 ---
 
