@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với kinh nghiệm thực tế trong xây dựng ứng dụng doanh nghiệp có tính mở rộng cao, bảo mật và sẵn sàng cho môi trường production. Với nền tảng vững chắc từ **Đại học Điện Lực (GPA: 3.53/4.0)** và kinh nghiệm thực tập tại **Công ty TNHH Công nghệ và Chuyển đổi số INNOTECH**, tôi tự tin thiết kế và xây dựng các hệ thống phức tạp theo kiến trúc microservices.
+Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với kinh nghiệm thực tế trong xây dựng ứng dụng doanh nghiệp có tính mở rộng cao, bảo mật và sẵn sàng cho môi trường production. Với nền tảng vững chắc từ **Đại học Điện Lực (GPA: 3.53/4.0)** tôi tự tin thiết kế và xây dựng các hệ thống phức tạp theo kiến trúc microservices.
 
 - 🔭 **Working on:** Phát triển backend enterprise tại INNOTECH, xây dựng microservices với Spring Boot.
 - 🌱 **Learning:** Cloud Native (AWS), Kubernetes chuyên sâu, Go & Kotlin.
