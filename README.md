@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Chu+Van+Tuan+👋;Java+Backend+Developer;Microservices+%26+Security+Enthusiast;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Chu+Van+Tuan+ðŸ‘‹;Java+Backend+Developer;Microservices+%26+Security+Enthusiast;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -20,9 +20,9 @@
       <img src="https://img.shields.io/badge/Phone-0366201977-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Location-Hà%20Nội%2C%20Việt%20Nam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+      <img src="https://img.shields.io/badge/Location-HÃ %20Ná»™i%2C%20Viá»‡t%20Nam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     </a>
-    <a href="https://github.com/chuvt2112">
+    <a href="https://github.com/chuvantuan">
       <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -30,18 +30,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### ðŸ‘¨â€ðŸ’» About Me
 
-Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với kinh nghiệm thực tế trong xây dựng ứng dụng doanh nghiệp có tính mở rộng cao, bảo mật và sẵn sàng cho môi trường production. Với nền tảng vững chắc từ **Đại học Điện Lực (GPA: 3.53/4.0)** và kinh nghiệm thực tập tại **Công ty TNHH Công nghệ và Chuyển đổi số INNOTECH**, tôi tự tin thiết kế và xây dựng các hệ thống phức tạp theo kiến trúc microservices.
+TÃ´i lÃ  **Chu VÄƒn Tuáº¥n** â€” má»™t láº­p trÃ¬nh viÃªn **Java Backend** vá»›i kinh nghiá»‡m thá»±c táº¿ trong xÃ¢y dá»±ng á»©ng dá»¥ng doanh nghiá»‡p cÃ³ tÃ­nh má»Ÿ rá»™ng cao, báº£o máº­t vÃ  sáºµn sÃ ng cho mÃ´i trÆ°á»ng production. Vá»›i ná»n táº£ng vá»¯ng cháº¯c tá»« **Äáº¡i há»c Äiá»‡n Lá»±c (GPA: 3.53/4.0)** vÃ  kinh nghiá»‡m thá»±c táº­p táº¡i **CÃ´ng ty TNHH CÃ´ng nghá»‡ vÃ  Chuyá»ƒn Ä‘á»•i sá»‘ INNOTECH**, tÃ´i tá»± tin thiáº¿t káº¿ vÃ  xÃ¢y dá»±ng cÃ¡c há»‡ thá»‘ng phá»©c táº¡p theo kiáº¿n trÃºc microservices.
 
-- 🔭 **Đang làm:** Phát triển backend enterprise tại INNOTECH, xây dựng microservices với Spring Boot.
-- 🌱 **Đang học:** Cloud Native (AWS), Kubernetes chuyên sâu, Go & Kotlin.
-- 🎯 **Mục tiêu:** Trở thành **Senior Backend Engineer** & **Solutions Architect** trong tương lai.
-- 🏆 **Thành tích:** Sinh viên Xuất sắc 2024–2025, 2025–2026 | Đồng tác giả bài báo khoa học quốc tế tại **SCI-2026**.
+- ðŸ”­ **Äang lÃ m:** PhÃ¡t triá»ƒn backend enterprise táº¡i INNOTECH, xÃ¢y dá»±ng microservices vá»›i Spring Boot.
+- ðŸŒ± **Äang há»c:** Cloud Native (AWS), Kubernetes chuyÃªn sÃ¢u, Go & Kotlin.
+- ðŸŽ¯ **Má»¥c tiÃªu:** Trá»Ÿ thÃ nh **Senior Backend Engineer** & **Solutions Architect** trong tÆ°Æ¡ng lai.
+- ðŸ† **ThÃ nh tÃ­ch:** Sinh viÃªn Xuáº¥t sáº¯c 2024â€“2025, 2025â€“2026 | Äá»“ng tÃ¡c giáº£ bÃ i bÃ¡o khoa há»c quá»‘c táº¿ táº¡i **SCI-2026**.
 
 ---
 
-### 🛠️ Technical Arsenal
+### ðŸ› ï¸ Technical Arsenal
 
 <div align="center">
 
@@ -65,116 +65,116 @@ Tôi là **Chu Văn Tuấn** — một lập trình viên **Java Backend** với
 
 ---
 
-### 💼 Work Experience
+### ðŸ’¼ Work Experience
 
-#### 🏢 **Java Developer Intern** — INNOTECH Technology & Digital Transformation Co., Ltd.
-> *11/2025 – 05/2026 · Hà Nội, Việt Nam*
+#### ðŸ¢ **Java Developer Intern** â€” INNOTECH Technology & Digital Transformation Co., Ltd.
+> *11/2025 â€“ 05/2026 Â· HÃ  Ná»™i, Viá»‡t Nam*
 
-- 🔧 Phát triển và bảo trì các tính năng backend cho ứng dụng web doanh nghiệp bằng **Java** và **Spring Boot**.
-- 📐 Đọc hiểu và triển khai tài liệu thiết kế hệ thống (sequence diagram, API spec, architecture doc), đảm bảo tính nhất quán giữa thiết kế và thực thi.
-- ✅ Viết code theo tiêu chuẩn **SOLID**, **Clean Code**; tham gia quy trình review code và quản lý pull request theo **GitFlow**.
-- 🐛 Sửa lỗi, kiểm thử hồi quy và triển khai dịch vụ backend theo từng giai đoạn trong môi trường **Agile**.
-- 🗄️ Thiết kế và tối ưu tầng truy cập dữ liệu với **JPA/Hibernate**, cải thiện hiệu năng truy vấn trên cơ sở dữ liệu quan hệ.
-- 🔗 Tích hợp API bên thứ ba và các dịch vụ nội bộ, nâng cao độ tin cậy hệ thống sản xuất.
+- ðŸ”§ PhÃ¡t triá»ƒn vÃ  báº£o trÃ¬ cÃ¡c tÃ­nh nÄƒng backend cho á»©ng dá»¥ng web doanh nghiá»‡p báº±ng **Java** vÃ  **Spring Boot**.
+- ðŸ“ Äá»c hiá»ƒu vÃ  triá»ƒn khai tÃ i liá»‡u thiáº¿t káº¿ há»‡ thá»‘ng (sequence diagram, API spec, architecture doc), Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n giá»¯a thiáº¿t káº¿ vÃ  thá»±c thi.
+- âœ… Viáº¿t code theo tiÃªu chuáº©n **SOLID**, **Clean Code**; tham gia quy trÃ¬nh review code vÃ  quáº£n lÃ½ pull request theo **GitFlow**.
+- ðŸ› Sá»­a lá»—i, kiá»ƒm thá»­ há»“i quy vÃ  triá»ƒn khai dá»‹ch vá»¥ backend theo tá»«ng giai Ä‘oáº¡n trong mÃ´i trÆ°á»ng **Agile**.
+- ðŸ—„ï¸ Thiáº¿t káº¿ vÃ  tá»‘i Æ°u táº§ng truy cáº­p dá»¯ liá»‡u vá»›i **JPA/Hibernate**, cáº£i thiá»‡n hiá»‡u nÄƒng truy váº¥n trÃªn cÆ¡ sá»Ÿ dá»¯ liá»‡u quan há»‡.
+- ðŸ”— TÃ­ch há»£p API bÃªn thá»© ba vÃ  cÃ¡c dá»‹ch vá»¥ ná»™i bá»™, nÃ¢ng cao Ä‘á»™ tin cáº­y há»‡ thá»‘ng sáº£n xuáº¥t.
 
 ---
 
-### 🚀 Featured Projects
+### ðŸš€ Featured Projects
 
-#### 📚 **Online Learning & Examination Platform** *(05/2025 – 10/2025)*
-> **Vai trò:** Backend Developer & System Architect
+#### ðŸ“š **Online Learning & Examination Platform** *(05/2025 â€“ 10/2025)*
+> **Vai trÃ²:** Backend Developer & System Architect
 
 **Tech Stack:**
 `Java 21` `Spring Boot 3.3` `Spring Security` `Spring Cloud (Eureka, API Gateway, OpenFeign)`
 `JWT` `OAuth2` `PostgreSQL` `MongoDB` `Redis` `Apache Kafka` `Docker` `GitHub Actions` `Swagger`
 
-**Điểm nổi bật:**
-- 🏗️ Xây dựng nền tảng microservices với **12+ services** theo kiến trúc phân tầng (Controller – Service – Repository).
-- 🔐 Xây dựng **Identity Service** với JWT (access/refresh token), đăng nhập OAuth2 (Google) và **RBAC** 3 cấp: Admin, Manager, User.
-- 📝 Thiết kế **RESTful API** cho quản lý User, Role, Permission với bảo mật cấp phương thức (`@PreAuthorize`).
-- 📊 Phát triển **Exam Service**: CRUD ngân hàng câu hỏi, sinh câu hỏi ngẫu nhiên, loại trùng lặp, nhập/xuất Excel (Apache POI).
-- ⚡ Tích hợp **Apache Kafka** cho messaging bất đồng bộ giữa các dịch vụ Notification & Profile.
-- 🐳 Container hóa toàn bộ hệ thống với **Docker Compose** điều phối **15+ containers**.
-- 📖 Tài liệu hóa API với **SpringDoc OpenAPI (Swagger UI)** và JWT Bearer authentication.
+**Äiá»ƒm ná»•i báº­t:**
+- ðŸ—ï¸ XÃ¢y dá»±ng ná»n táº£ng microservices vá»›i **12+ services** theo kiáº¿n trÃºc phÃ¢n táº§ng (Controller â€“ Service â€“ Repository).
+- ðŸ” XÃ¢y dá»±ng **Identity Service** vá»›i JWT (access/refresh token), Ä‘Äƒng nháº­p OAuth2 (Google) vÃ  **RBAC** 3 cáº¥p: Admin, Manager, User.
+- ðŸ“ Thiáº¿t káº¿ **RESTful API** cho quáº£n lÃ½ User, Role, Permission vá»›i báº£o máº­t cáº¥p phÆ°Æ¡ng thá»©c (`@PreAuthorize`).
+- ðŸ“Š PhÃ¡t triá»ƒn **Exam Service**: CRUD ngÃ¢n hÃ ng cÃ¢u há»i, sinh cÃ¢u há»i ngáº«u nhiÃªn, loáº¡i trÃ¹ng láº·p, nháº­p/xuáº¥t Excel (Apache POI).
+- âš¡ TÃ­ch há»£p **Apache Kafka** cho messaging báº¥t Ä‘á»“ng bá»™ giá»¯a cÃ¡c dá»‹ch vá»¥ Notification & Profile.
+- ðŸ³ Container hÃ³a toÃ n bá»™ há»‡ thá»‘ng vá»›i **Docker Compose** Ä‘iá»u phá»‘i **15+ containers**.
+- ðŸ“– TÃ i liá»‡u hÃ³a API vá»›i **SpringDoc OpenAPI (Swagger UI)** vÃ  JWT Bearer authentication.
 
 ---
 
-#### 🛡️ **DevSecOps Research Project — SCI-2026 International Conference** *(11/2025 – 05/2026)*
-> **Vai trò:** Core Researcher — Infrastructure & Security Architect  
+#### ðŸ›¡ï¸ **DevSecOps Research Project â€” SCI-2026 International Conference** *(11/2025 â€“ 05/2026)*
+> **Vai trÃ²:** Core Researcher â€” Infrastructure & Security Architect  
 > *Applying DevSecOps for Secure Software Deployment in Cloud Computing Environments*  
-> *(Trình bày tại Hội nghị Quốc tế SCI-2026, tổ chức bởi Swinburne University & FPT Education)*
+> *(TrÃ¬nh bÃ y táº¡i Há»™i nghá»‹ Quá»‘c táº¿ SCI-2026, tá»• chá»©c bá»Ÿi Swinburne University & FPT Education)*
 
 **Tech Stack:**
 `Java 17` `Spring Boot 3.x` `PostgreSQL` `Redis` `Docker` `Kubernetes (K8s)` `Terraform` `GitHub Actions`
 
-**Đóng góp kỹ thuật:**
-- 🔒 Áp dụng **Shift-left Security**: tích hợp SAST (SonarQube) và quét lỗ hổng (Snyk/Trivy) vào pipeline CI/CD.
-- 📦 Điều phối K8s clusters và cấu hình dịch vụ bằng **Terraform** và **Helm Charts** (100% environment consistency).
-- 📈 Xây dựng hệ thống giám sát toàn diện với **Prometheus & Grafana**, cảnh báo tự động theo ngưỡng tài nguyên.
-- 📡 Cấu hình **Horizontal Pod Autoscaler (HPA)** duy trì ổn định hệ thống khi traffic tăng đột biến.
+**ÄÃ³ng gÃ³p ká»¹ thuáº­t:**
+- ðŸ”’ Ãp dá»¥ng **Shift-left Security**: tÃ­ch há»£p SAST (SonarQube) vÃ  quÃ©t lá»— há»•ng (Snyk/Trivy) vÃ o pipeline CI/CD.
+- ðŸ“¦ Äiá»u phá»‘i K8s clusters vÃ  cáº¥u hÃ¬nh dá»‹ch vá»¥ báº±ng **Terraform** vÃ  **Helm Charts** (100% environment consistency).
+- ðŸ“ˆ XÃ¢y dá»±ng há»‡ thá»‘ng giÃ¡m sÃ¡t toÃ n diá»‡n vá»›i **Prometheus & Grafana**, cáº£nh bÃ¡o tá»± Ä‘á»™ng theo ngÆ°á»¡ng tÃ i nguyÃªn.
+- ðŸ“¡ Cáº¥u hÃ¬nh **Horizontal Pod Autoscaler (HPA)** duy trÃ¬ á»•n Ä‘á»‹nh há»‡ thá»‘ng khi traffic tÄƒng Ä‘á»™t biáº¿n.
 
-**Kết quả nổi bật:**
-| Chỉ số | Kết quả |
+**Káº¿t quáº£ ná»•i báº­t:**
+| Chá»‰ sá»‘ | Káº¿t quáº£ |
 |---|---|
-| 🟢 System Uptime | **99.8%** dưới tải 5,000 concurrent users |
-| 🔴 Lỗ hổng bảo mật nghiêm trọng | Phát hiện & vá **19 lỗ hổng** trước khi deploy |
-| 🏆 Công nhận | Bài báo được chấp nhận tại **SCI-2026** |
+| ðŸŸ¢ System Uptime | **99.8%** dÆ°á»›i táº£i 5,000 concurrent users |
+| ðŸ”´ Lá»— há»•ng báº£o máº­t nghiÃªm trá»ng | PhÃ¡t hiá»‡n & vÃ¡ **19 lá»— há»•ng** trÆ°á»›c khi deploy |
+| ðŸ† CÃ´ng nháº­n | BÃ i bÃ¡o Ä‘Æ°á»£c cháº¥p nháº­n táº¡i **SCI-2026** |
 
 ---
 
-### 🎓 Education
+### ðŸŽ“ Education
 
-#### 🏫 **Đại học Điện Lực (Electric Power University — EPU)**
-> *09/2022 – 01/2027 · Công nghệ Phần mềm (Software Technology)*  
-> **GPA: 3.53 / 4.0** ⭐
+#### ðŸ« **Äáº¡i há»c Äiá»‡n Lá»±c (Electric Power University â€” EPU)**
+> *09/2022 â€“ 01/2027 Â· CÃ´ng nghá»‡ Pháº§n má»m (Software Technology)*  
+> **GPA: 3.53 / 4.0** â­
 
-**Thành tích nổi bật:**
-- 🥇 Danh hiệu **Sinh viên Xuất sắc** các năm học 2024–2025 và 2025–2026.
-- 📄 Đồng tác giả bài báo khoa học được chấp nhận tại **hội nghị quốc tế SCI-2026**.
-- 📚 Hoàn thành **134 tín chỉ**, xây dựng nền tảng vững chắc về kỹ thuật phần mềm, kiến trúc hệ thống và công nghệ mới nổi.
+**ThÃ nh tÃ­ch ná»•i báº­t:**
+- ðŸ¥‡ Danh hiá»‡u **Sinh viÃªn Xuáº¥t sáº¯c** cÃ¡c nÄƒm há»c 2024â€“2025 vÃ  2025â€“2026.
+- ðŸ“„ Äá»“ng tÃ¡c giáº£ bÃ i bÃ¡o khoa há»c Ä‘Æ°á»£c cháº¥p nháº­n táº¡i **há»™i nghá»‹ quá»‘c táº¿ SCI-2026**.
+- ðŸ“š HoÃ n thÃ nh **134 tÃ­n chá»‰**, xÃ¢y dá»±ng ná»n táº£ng vá»¯ng cháº¯c vá» ká»¹ thuáº­t pháº§n má»m, kiáº¿n trÃºc há»‡ thá»‘ng vÃ  cÃ´ng nghá»‡ má»›i ná»•i.
 
-**Môn học tiêu biểu (điểm A/A+):**
+**MÃ´n há»c tiÃªu biá»ƒu (Ä‘iá»ƒm A/A+):**
 
-| Nhóm | Môn học & Điểm số |
+| NhÃ³m | MÃ´n há»c & Äiá»ƒm sá»‘ |
 |---|---|
-| 🧮 **Thuật toán & Toán học** | Cấu trúc DL & Giải thuật Nâng cao (A+), Toán cao cấp 1&2 (9.6), Toán rời rạc (8.6) |
-| 🤖 **AI & Xử lý dữ liệu** | Machine Learning Nâng cao (10.0), Trí tuệ nhân tạo (9.8), Phân tích & Trực quan hóa DL (9.9) |
-| 🔐 **Hệ thống & Bảo mật** | Lập trình Hệ thống (9.7), An toàn Thông tin (9.6), Kiểm thử & Đảm bảo Chất lượng (9.9) |
-| 💻 **Phát triển phần mềm** | Lập trình Java, Phát triển Web phần mềm An toàn, Lập trình .NET (10.0) |
+| ðŸ§® **Thuáº­t toÃ¡n & ToÃ¡n há»c** | Cáº¥u trÃºc DL & Giáº£i thuáº­t NÃ¢ng cao (A+), ToÃ¡n cao cáº¥p 1&2 (9.6), ToÃ¡n rá»i ráº¡c (8.6) |
+| ðŸ¤– **AI & Xá»­ lÃ½ dá»¯ liá»‡u** | Machine Learning NÃ¢ng cao (10.0), TrÃ­ tuá»‡ nhÃ¢n táº¡o (9.8), PhÃ¢n tÃ­ch & Trá»±c quan hÃ³a DL (9.9) |
+| ðŸ” **Há»‡ thá»‘ng & Báº£o máº­t** | Láº­p trÃ¬nh Há»‡ thá»‘ng (9.7), An toÃ n ThÃ´ng tin (9.6), Kiá»ƒm thá»­ & Äáº£m báº£o Cháº¥t lÆ°á»£ng (9.9) |
+| ðŸ’» **PhÃ¡t triá»ƒn pháº§n má»m** | Láº­p trÃ¬nh Java, PhÃ¡t triá»ƒn Web pháº§n má»m An toÃ n, Láº­p trÃ¬nh .NET (10.0) |
 
 ---
 
-### 🧠 Soft Skills
+### ðŸ§  Soft Skills
 
-- 🔍 **Systematic Troubleshooting:** Phân tích và cô lập lỗi dựa trên application log, stack trace và performance data; tập trung xử lý tận gốc và ngăn tái diễn qua unit test / integration test.
-- 📖 **Technical Research:** Đọc hiểu tài liệu kỹ thuật tiếng Anh (JavaDoc, Spring Documentation, RFC); chuyển hóa đặc tả kỹ thuật thành giải pháp triển khai thực tế.
-- ✨ **Clean Code & Code Review:** Tư duy chú trọng chất lượng code theo SOLID và Clean Architecture; giao tiếp kỹ thuật hiệu quả trong quy trình review code và pull request.
-- 🚀 **Continuous Learning:** Chủ động nghiên cứu công nghệ mới trong hệ sinh thái Java và mở rộng sang các ngôn ngữ backend khác (Go, Kotlin).
+- ðŸ” **Systematic Troubleshooting:** PhÃ¢n tÃ­ch vÃ  cÃ´ láº­p lá»—i dá»±a trÃªn application log, stack trace vÃ  performance data; táº­p trung xá»­ lÃ½ táº­n gá»‘c vÃ  ngÄƒn tÃ¡i diá»…n qua unit test / integration test.
+- ðŸ“– **Technical Research:** Äá»c hiá»ƒu tÃ i liá»‡u ká»¹ thuáº­t tiáº¿ng Anh (JavaDoc, Spring Documentation, RFC); chuyá»ƒn hÃ³a Ä‘áº·c táº£ ká»¹ thuáº­t thÃ nh giáº£i phÃ¡p triá»ƒn khai thá»±c táº¿.
+- âœ¨ **Clean Code & Code Review:** TÆ° duy chÃº trá»ng cháº¥t lÆ°á»£ng code theo SOLID vÃ  Clean Architecture; giao tiáº¿p ká»¹ thuáº­t hiá»‡u quáº£ trong quy trÃ¬nh review code vÃ  pull request.
+- ðŸš€ **Continuous Learning:** Chá»§ Ä‘á»™ng nghiÃªn cá»©u cÃ´ng nghá»‡ má»›i trong há»‡ sinh thÃ¡i Java vÃ  má»Ÿ rá»™ng sang cÃ¡c ngÃ´n ngá»¯ backend khÃ¡c (Go, Kotlin).
 
 ---
 
-### 📊 GitHub Analytics
+### ðŸ“Š GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/chuvt2112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chuvt2112&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+  <a href="https://github.com/chuvantuan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chuvantuan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   
-  <a href="https://github.com/chuvt2112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuvt2112&layout=compact&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/chuvantuan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuvantuan&layout=compact&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuvt2112&theme=midnight-purple&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuvantuan&theme=midnight-purple&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chuvt2112&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chuvantuan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   <br/>
   
-  <sub>Made with ❤️ by Chu Văn Tuấn · Java Backend Developer</sub>
+  <sub>Made with â¤ï¸ by Chu VÄƒn Tuáº¥n Â· Java Backend Developer</sub>
 </div>
